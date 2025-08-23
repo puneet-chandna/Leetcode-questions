@@ -1,68 +1,58 @@
 class Solution {
 public:
     int minimumSum(vector<vector<int>>& grid) {
-        const int m = grid.size();
-        const int n = grid[0].size();
-        int ans = m * n;
+        int m = grid.size(), n = grid[0].size();
+    auto area = [&](int r1, int r2, int c1, int c2)->int {
+      if (r1 > r2 || c1 > c2) return 0;
+      int rmin = INT_MAX, cmin = INT_MAX, rmax = -1, cmax = -1;
+      for (int i = r1; i <= r2; ++i)
+        for (int j = c1; j <= c2; ++j)
+          if (grid[i][j]) {
+            rmin = min(rmin, i); cmin = min(cmin, j);
+            rmax = max(rmax, i); cmax = max(cmax, j);
+          }
+      return (rmax == -1) ? 0 : (rmax - rmin + 1) * (cmax - cmin + 1);
+    };
 
-        for (int i = 0; i < m; ++i) {
-            int top = area(grid, 0, i, 0, n - 1);
-            if (top == 0) continue;
-            for (int j = i + 1; j < m; ++j) {
-                int mid = area(grid, i + 1, j, 0, n - 1);
-                int bot = area(grid, j + 1, m - 1, 0, n - 1);
-                if (mid == 0 || bot == 0) continue;
-                ans = min(ans, top + mid + bot);
-            }
-        }
+    int ans = INT_MAX;
 
-        for (int j = 0; j < n; ++j) {
-            int left = area(grid, 0, m - 1, 0, j);
-            if (left == 0) continue;
-            for (int k = j + 1; k < n; ++k) {
-                int mid = area(grid, 0, m - 1, j + 1, k);
-                int right = area(grid, 0, m - 1, k + 1, n - 1);
-                if (mid == 0 || right == 0) continue;
-                ans = min(ans, left + mid + right);
-            }
-        }
-
-        for (int i = 0; i < m - 1; ++i) {
-            int top = area(grid, 0, i, 0, n - 1);
-            if (top == 0) continue;
-            for (int j = 0; j < n - 1; ++j) {
-                int bl = area(grid, i + 1, m - 1, 0, j);
-                int br = area(grid, i + 1, m - 1, j + 1, n - 1);
-                if (bl == 0 || br == 0) continue;
-                ans = min(ans, top + bl + br);
-            }
-        }
-
-        for (int j = 0; j < n - 1; ++j) {
-            int left = area(grid, 0, m - 1, 0, j);
-            if (left == 0) continue;
-            for (int i = 0; i < m - 1; ++i) {
-                int tr = area(grid, 0, i, j + 1, n - 1);
-                int br = area(grid, i + 1, m - 1, j + 1, n - 1);
-                if (tr == 0 || br == 0) continue;
-                ans = min(ans, left + tr + br);
-            }
-        }
-
-        return ans;
+    // top + (bottom split L/R)
+    for (int i = 0; i < m; ++i) {
+      int top = area(0, i, 0, n - 1);
+      for (int j = 0; j < n; ++j)
+        ans = min(ans, top + area(i + 1, m - 1, 0, j) + area(i + 1, m - 1, j + 1, n - 1));
     }
+    // bottom + (top split L/R)
+    for (int i = 0; i < m; ++i) {
+      int bottom = area(i, m - 1, 0, n - 1);
+      for (int j = 0; j < n; ++j)
+        ans = min(ans, bottom + area(0, i - 1, 0, j) + area(0, i - 1, j + 1, n - 1));
+    }
+    // left + (right split T/B)
+    for (int j = 0; j < n; ++j) {
+      int left = area(0, m - 1, 0, j);
+      for (int i = 0; i < m; ++i)
+        ans = min(ans, left + area(0, i, j + 1, n - 1) + area(i + 1, m - 1, j + 1, n - 1));
+    }
+    // right + (left split T/B)
+    for (int j = 0; j < n; ++j) {
+      int right = area(0, m - 1, j, n - 1);
+      for (int i = 0; i < m; ++i)
+        ans = min(ans, right + area(0, i, 0, j - 1) + area(i + 1, m - 1, 0, j - 1));
+    }
+   
+    for (int r1 = 0; r1 < m; ++r1)
+      for (int r2 = r1 + 1; r2 < m; ++r2)
+        ans = min(ans, area(0, r1, 0, n - 1) +
+                         area(r1 + 1, r2, 0, n - 1) +
+                         area(r2 + 1, m - 1, 0, n - 1));
+    // three vertical stripes
+    for (int c1 = 0; c1 < n; ++c1)
+      for (int c2 = c1 + 1; c2 < n; ++c2)
+        ans = min(ans, area(0, m - 1, 0, c1) +
+                         area(0, m - 1, c1 + 1, c2) +
+                         area(0, m - 1, c2 + 1, n - 1));
 
-
-    int area(const vector<vector<int>>& g, int si, int ei, int sj, int ej) {
-        int x1 = INT_MAX, y1 = INT_MAX, x2 = -1, y2 = -1;
-        for (int x = si; x <= ei; ++x)
-            for (int y = sj; y <= ej; ++y)
-                if (g[x][y] == 1) {
-                    x1 = min(x1, x);
-                    y1 = min(y1, y);
-                    x2 = max(x2, x);
-                    y2 = max(y2, y);
-                }
-        return x2 == -1 ? 0 : (x2 - x1 + 1) * (y2 - y1 + 1);
+    return ans;
     }
 };

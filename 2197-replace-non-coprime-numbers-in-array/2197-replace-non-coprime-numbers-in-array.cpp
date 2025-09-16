@@ -5,13 +5,11 @@ public:
         st.reserve(nums.size());
         
         for (int num : nums) {
-            // Try to merge with previous elements in stack
+           
             while (!st.empty()) {
                 int top = st.back();
                 int g = gcd(top, num);
-                if (g == 1) break;  // coprime, can't merge
-                // merge: LCM
-                // to avoid overflow: compute (top / g) * num
+                if (g == 1) break;  
                 long long l = (long long)top / g * num;
                 num = (int)l;
                 st.pop_back();

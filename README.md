@@ -75,4 +75,16 @@ This is a personal practice repo, but feel free to:
 | [0035-search-insert-position](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0704-binary-search](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0704-binary-search/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->

@@ -64,6 +64,7 @@ This is a personal practice repo, but feel free to:
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0704-binary-search](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0704-binary-search/) | Easy |
 ## Binary Search
@@ -71,6 +72,7 @@ This is a personal practice repo, but feel free to:
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0704-binary-search](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->

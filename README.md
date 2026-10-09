@@ -86,6 +86,7 @@ This is a personal practice repo, but feel free to:
 | [0678-valid-parenthesis-string](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -98,6 +99,7 @@ This is a personal practice repo, but feel free to:
 | [0678-valid-parenthesis-string](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -111,6 +113,7 @@ This is a personal practice repo, but feel free to:
 | [0678-valid-parenthesis-string](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |

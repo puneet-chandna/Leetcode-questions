@@ -69,6 +69,7 @@ This is a personal practice repo, but feel free to:
 | [0704-binary-search](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0704-binary-search/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,4 +157,8 @@ This is a personal practice repo, but feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->

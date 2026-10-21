@@ -1,20 +1,14 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int makority= 0;
-        int maxx =0;
-        
-        
-        map<int,int>mpp;
-        for ( int i= 0; i< nums.size(); i++){
-            mpp[nums[i]]++;
-        }
-        for (auto it : mpp){
-            if ( it.second > nums.size()/2) return it.first;
-            
-        }
+        int max= 0;
+        int high= 0;
 
-
-        return -1;
+         for ( int i =0; i < nums.size(); i++){
+            if( high==0) max = nums[i];
+            if (nums[i] == max) high ++;
+            else high --;
+         }
+         return max;
     }
 };

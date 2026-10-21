@@ -103,6 +103,7 @@ This is a personal practice repo, but feel free to:
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

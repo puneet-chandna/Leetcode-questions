@@ -66,6 +66,7 @@ This is a personal practice repo, but feel free to:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0169-majority-element](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0169-majority-element/) | Easy |
 | [0704-binary-search](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0704-binary-search/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -166,6 +167,7 @@ This is a personal practice repo, but feel free to:
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0169-majority-element/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -183,6 +185,7 @@ This is a personal practice repo, but feel free to:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0169-majority-element/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -210,6 +213,7 @@ This is a personal practice repo, but feel free to:
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0169-majority-element/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -239,4 +243,12 @@ This is a personal practice repo, but feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->

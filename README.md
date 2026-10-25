@@ -68,6 +68,7 @@ This is a personal practice repo, but feel free to:
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0169-majority-element](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0169-majority-element/) | Easy |
 | [0704-binary-search](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0704-binary-search/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -147,6 +148,7 @@ This is a personal practice repo, but feel free to:
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -167,6 +169,7 @@ This is a personal practice repo, but feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +230,7 @@ This is a personal practice repo, but feel free to:
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -256,4 +260,8 @@ This is a personal practice repo, but feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0169-majority-element/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1254-number-of-closed-islands/) | Medium |
 <!---LeetCode Topics End-->

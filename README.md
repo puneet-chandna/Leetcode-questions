@@ -67,6 +67,7 @@ This is a personal practice repo, but feel free to:
 | [0035-search-insert-position](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0169-majority-element](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0169-majority-element/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0704-binary-search](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0704-binary-search/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -219,6 +220,7 @@ This is a personal practice repo, but feel free to:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/puneet-chandna/Leetcode-questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |

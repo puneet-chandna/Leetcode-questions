@@ -73,6 +73,7 @@ This is a personal practice repo, but feel free to:
 | [1254-number-of-closed-islands](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -204,6 +205,7 @@ This is a personal practice repo, but feel free to:
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1882-process-tasks-using-servers](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |

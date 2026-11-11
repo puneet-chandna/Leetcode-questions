@@ -189,6 +189,7 @@ This is a personal practice repo, but feel free to:
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,6 +248,7 @@ This is a personal practice repo, but feel free to:
 | [2409-count-days-spent-together](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |

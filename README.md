@@ -125,6 +125,7 @@ This is a personal practice repo, but feel free to:
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
@@ -347,6 +348,7 @@ This is a personal practice repo, but feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |

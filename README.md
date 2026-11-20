@@ -85,6 +85,7 @@ This is a personal practice repo, but feel free to:
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -171,6 +172,7 @@ This is a personal practice repo, but feel free to:
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/puneet-chandna/Leetcode-questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -216,6 +218,7 @@ This is a personal practice repo, but feel free to:
 | [2089-find-target-indices-after-sorting-array](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/puneet-chandna/Leetcode-questions/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/puneet-chandna/Leetcode-questions/tree/main/3886-sum-of-sortable-integers/) | Hard |
